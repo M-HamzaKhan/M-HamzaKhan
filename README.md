@@ -19,7 +19,7 @@
 - 💻 Working on exciting **Data Science & ML projects**
 - 📊 Love working with **Python, ML algorithms, and data visualization**
 - 🌱 Currently exploring **Deep Learning & Advanced NLP**
-- 📫 Reach me: **[Your Email Here]**
+- 📫 Reach me: **hamzakhann067@gmail.com**
 
 ---
 
@@ -42,113 +42,28 @@
 
 ## 📁 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🕷️ GitHub Data Scraper</h3>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/github-data-scraper" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-HamzaKhan&repo=github-data-scraper&theme=tokyonight" alt="github-data-scraper" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/github-data-scraper" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏠 Property Data Scraper</h3>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/property-data-scraper" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-HamzaKhan&repo=property-data-scraper&theme=tokyonight" alt="property-data-scraper" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/property-data-scraper" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚖️ Legal Job Proposal Bot</h3>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/legal-job-proposal-bot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-HamzaKhan&repo=legal-job-proposal-bot&theme=tokyonight" alt="legal-job-proposal-bot" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/legal-job-proposal-bot" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">❤️ Heart Disease Detection</h3>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/Heart-Disease-Detection" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-HamzaKhan&repo=Heart-Disease-Detection&theme=tokyonight" alt="Heart-Disease-Detection" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/Heart-Disease-Detection" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-  </tr>
+### 🕷️ Web Scraping Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **GitHub Data Scraper** | Advanced scraper for extracting GitHub repository and user data | Python, BeautifulSoup, Selenium | [View →](https://github.com/M-HamzaKhan/github-data-scraper) |
+| **Property Data Scraper** | Real estate data extraction tool for market analysis | Python, Selenium, Pandas | [View →](https://github.com/M-HamzaKhan/property-data-scraper) |
+| **Drum Scraper** | Music instrument data scraper for pricing and inventory tracking | Python, BeautifulSoup | [View →](https://github.com/M-HamzaKhan/Drum-Scraper-) |
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">🥁 Drum Scraper</h3>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/Drum-Scraper-" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-HamzaKhan&repo=Drum-Scraper-&theme=tokyonight" alt="Drum-Scraper" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/Drum-Scraper-" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚾ MLB Data Project</h3>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/MLB" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-HamzaKhan&repo=MLB&theme=tokyonight" alt="MLB" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/M-HamzaKhan/MLB" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🤖 Machine Learning & Data Science
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Heart Disease Detection** | ML model for predicting heart disease using patient data | Python, Scikit-Learn, Jupyter | [View →](https://github.com/M-HamzaKhan/Heart-Disease-Detection) |
+| **MLB Data Analytics** | Baseball statistics analysis and predictive modeling | Python, Pandas, NumPy | [View →](https://github.com/M-HamzaKhan/MLB) |
 
----
+### 🔧 Automation & Tools
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Legal Job Proposal Bot** | Automated job proposal generation for legal positions | Python, NLP, APIs | [View →](https://github.com/M-HamzaKhan/legal-job-proposal-bot) |
 
-## 🔗 All My Repositories
-
-<div align="center">
-
-| Repository | Description | Tech Stack | Link |
-|------------|-------------|------------|------|
-| **GitHub Data Scraper** | Advanced scraper for extracting GitHub data | Python, BeautifulSoup | [View →](https://github.com/M-HamzaKhan/github-data-scraper) |
-| **Property Data Scraper** | Real estate data extraction tool | Python, Selenium | [View →](https://github.com/M-HamzaKhan/property-data-scraper) |
-| **Legal Job Proposal Bot** | Automated job proposal generation | Python, NLP | [View →](https://github.com/M-HamzaKhan/legal-job-proposal-bot) |
-| **Heart Disease Detection** | ML model for heart disease prediction | Python, Scikit-Learn | [View →](https://github.com/M-HamzaKhan/Heart-Disease-Detection) |
-| **Drum Scraper** | Music instrument data scraper | Python | [View →](https://github.com/M-HamzaKhan/Drum-Scraper-) |
-| **MLB** | Major League Baseball analytics | Python | [View →](https://github.com/M-HamzaKhan/MLB) |
-| **Personal Website** | Portfolio website | TypeScript | [View →](https://github.com/M-HamzaKhan/M-HamzaKhan.github.io) |
-| **Central Repo** | First central repository | Multi-language | [View →](https://github.com/M-HamzaKhan/centralrepo) |
-
-</div>
+### 🌐 Web Development
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Personal Portfolio** | My personal website and portfolio | TypeScript, React, Next.js | [View →](https://github.com/M-HamzaKhan/M-HamzaKhan.github.io) |
 
 ---
 
@@ -173,6 +88,21 @@
 
 ---
 
+## 💼 Skills & Expertise
+
+```python
+skills = {
+    "Data Science": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+    "Machine Learning": ["Scikit-Learn", "TensorFlow", "Model Evaluation", "Feature Engineering"],
+    "Web Scraping": ["BeautifulSoup", "Selenium", "Scrapy", "API Integration"],
+    "Databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
+    "Tools": ["Jupyter", "Git", "Docker", "VS Code"],
+    "Soft Skills": ["Problem Solving", "Data Analysis", "Research", "Team Collaboration"]
+}
+```
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -182,7 +112,7 @@
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hamzakhann067@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://M-HamzaKhan.github.io" target="_blank">
