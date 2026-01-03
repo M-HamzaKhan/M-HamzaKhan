@@ -53,29 +53,28 @@
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Heart Disease Detection** | ML model for predicting heart disease using patient data | Python, Scikit-Learn, Jupyter | [View →](https://github.com/M-HamzaKhan/Heart-Disease-Detection) |
-| **MLB Data Analytics** | Baseball statistics analysis and predictive modeling | Python, Pandas, NumPy | [View →](https://github.com/M-HamzaKhan/MLB) |
+
+### ⚾ Sports Analytics
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **MLB Data Project** | Major League Baseball data scraping and analytics | Python, Pandas, BeautifulSoup | [View →](https://github.com/M-HamzaKhan/MLB) |
 
 ### 🔧 Automation & Tools
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Legal Job Proposal Bot** | Automated job proposal generation for legal positions | Python, NLP, APIs | [View →](https://github.com/M-HamzaKhan/legal-job-proposal-bot) |
 
-### 🌐 Web Development
+### 🌐 Big Data & Infrastructure
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Personal Portfolio** | My personal website and portfolio | TypeScript, React, Next.js | [View →](https://github.com/M-HamzaKhan/M-HamzaKhan.github.io) |
+| **Big Data Pipeline Website** | Data pipeline infrastructure and visualization platform | TypeScript, React, Next.js | [View →](https://github.com/M-HamzaKhan/M-HamzaKhan.github.io) |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=M-HamzaKhan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-HamzaKhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-HamzaKhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
