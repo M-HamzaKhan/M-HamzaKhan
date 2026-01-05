@@ -47,7 +47,8 @@
 |---------|-------------|------------|------|
 | **GitHub Data Scraper** | Advanced scraper for extracting GitHub repository and user data | Python, BeautifulSoup, Selenium | [View →](https://github.com/M-HamzaKhan/github-data-scraper) |
 | **Property Data Scraper** | Real estate data extraction tool for market analysis | Python, Selenium, Pandas | [View →](https://github.com/M-HamzaKhan/property-data-scraper) |
-| **Drum Scraper** | Music instrument data scraper for pricing and inventory tracking | Python, BeautifulSoup | [View →](https://github.com/M-HamzaKhan/Drum-Scraper-) |
+| **Drum Scraper** | Music instrument data scraper for pricing and inventory tracking | Python, Selenium | [View →](https://github.com/M-HamzaKhan/Drum-Scraper-) |
+| **HLTV Scraper** | Scraper for collecting detailed CS:Go players data from HLTV.org | Python, Selenium | [View →](https://github.com/M-HamzaKhan/HLTV_Scraper) |
 
 ### 🤖 Machine Learning & Data Science
 | Project | Description | Tech Stack | Link |
