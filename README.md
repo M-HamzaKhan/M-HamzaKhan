@@ -68,7 +68,7 @@
 ### 🌐 Big Data & Infrastructure
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Big Data Pipeline Website** | Data pipeline infrastructure and visualization platform | TypeScript, React, Next.js | [View →](https://github.com/M-HamzaKhan/M-HamzaKhan.github.io) |
+| **Big Data Pipeline Website** | Data pipeline infrastructure and visualization platform | TypeScript, React, Next.js | [View →](https://m-hamzakhan.github.io/Big-Data-Pipeline/) |
 
 ---
 
@@ -101,7 +101,7 @@ skills = {
   <a href="https://www.linkedin.com/in/m-hamza-khan-01973a261" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://m-hamzakhan.github.io/My-Portfolio.github.io/" target="_blank">
+  <a href="M-HamzaKhan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:hamzakhann067@gmail.com">
