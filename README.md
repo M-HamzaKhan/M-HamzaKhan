@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://m-hamzakhan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-khan-01973a261)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzakhann067@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://m-hamzakhan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/m-hamza-khan-01973a261)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:hamzakhann067@gmail.com)
 
 <br/>
 
@@ -51,23 +51,23 @@ Extracted and processed data from 500+ websites across finance, retail, and soci
 **AI / Machine Learning / Computer Vision**
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" alt="AI/ML/CV stack" />
-<br/><sub>Python · PyTorch · TensorFlow · OpenCV · YOLO (Object Detection & Segmentation) · Scikit-Learn · OCR (pytesseract) · GPT/LLM Integration</sub>
+<br/><sub>Python · PyTorch · TensorFlow · OpenCV · YOLO (Object Detection &amp; Segmentation) · Scikit-Learn · OCR (pytesseract) · GPT/LLM Integration</sub>
 
-**Data Engineering & Web Automation**
+**Data Engineering &amp; Web Automation**
 
 <img src="https://skillicons.dev/icons?i=python,selenium" alt="Data Engineering stack" />
 <br/><sub>BeautifulSoup · Selenium · Scrapy · Playwright · API Integration</sub>
 
-**Databases & Tools**
+**Databases &amp; Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,docker,vscode" alt="Databases & Tools stack" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,docker,vscode" alt="Databases &amp; Tools stack" />
 <br/><sub>MySQL · PostgreSQL · SQLite · MongoDB · Git · Docker · VS Code</sub>
 
 <br/>
 
 ## Featured Projects
 
-### Computer Vision & AI
+### Computer Vision &amp; AI
 
 <details open>
 <summary><b>Golf ClubHead Detection (Computer Vision)</b> — <a href="https://github.com/M-HamzaKhan/golf-clubhead-detector">Repo ↗</a></summary>
@@ -105,7 +105,7 @@ Automated HLTV scraper collecting CS2 player stats and PrizePicks prop data, wit
 `Python` `Monte Carlo Simulation` `Selenium` `Predictive Modeling`
 </details>
 
-### Data Engineering & Web Scraping
+### Data Engineering &amp; Web Scraping
 
 <details>
 <summary><b>Real Estate Properties Data Scraper</b> — <a href="https://github.com/M-HamzaKhan/property-data-scraper">Repo ↗</a></summary>
@@ -168,14 +168,14 @@ Data pipeline infrastructure and visualization platform.
 
 <br/>
 
-## Skills & Expertise
+## Skills &amp; Expertise
 
 ```python
 skills = {
     "AI / Machine Learning": ["Python", "PyTorch", "TensorFlow", "Model Evaluation", "Feature Engineering"],
-    "Computer Vision": ["YOLO (Detection & Segmentation)", "OpenCV", "OCR (pytesseract)", "Data Augmentation"],
+    "Computer Vision": ["YOLO (Detection &amp; Segmentation)", "OpenCV", "OCR (pytesseract)", "Data Augmentation"],
     "LLM / NLP": ["OpenAI GPT Integration", "Automated Content Filtering", "Text Generation"],
-    "Data Engineering & Scraping": ["BeautifulSoup", "Selenium", "Scrapy", "Playwright", "API Integration"],
+    "Data Engineering &amp; Scraping": ["BeautifulSoup", "Selenium", "Scrapy", "Playwright", "API Integration"],
     "Databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
     "Tools": ["Git", "Docker", "Linux", "VS Code"],
     "Soft Skills": ["Problem Solving", "Technical Documentation", "Cross-team Collaboration"]
