@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E90FF&height=200&section=header&text=Muhammad%20Hamza%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Graduate%20%7C%20Web%20Scraping%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E90FF&height=200&section=header&text=Muhammad%20Hamza%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%26%20Deep%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Data+Science+Graduate;Web+Scraping+Specialist;Machine+Learning+Enthusiast;Turning+Raw+Data+Into+Real+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Computer+Vision+%26+Deep+Learning;Building+End-to-End+AI+Pipelines;Data+Science+Graduate" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,27 +23,40 @@
 
 ## About Me
 
-- Data Science Graduate with a passion for turning data into insights
-- Web Scraping Specialist — extracting valuable, structured data from the web
-- Machine Learning Enthusiast building intelligent systems
-- Working on Data Science & ML projects, from raw extraction through to modeling
-- Comfortable across Python, ML algorithms, and data visualization
-- Currently exploring Deep Learning & Advanced NLP
+- AI/ML Engineer building end-to-end intelligent systems — from data pipelines through model training to production deployment
+- Computer Vision focus: object detection, instance segmentation, and image classification using YOLO and deep learning
+- Experience building high-accuracy OCR pipelines for automated document text extraction
+- Integrating LLMs (GPT) into applied workflows — intelligent filtering, automated content generation
+- Background in large-scale data collection and automation, used to feed and validate ML pipelines
+- BSc Data Science, Institute of Management Sciences (IMSciences), Peshawar — CGPA 3.50/4.0
 - Reach me: **hamzakhann067@gmail.com**
+
+<br/>
+
+## Experience
+
+**AI/ML Engineer** · Zirium AI · *Apr 2026 – Present*
+Building computer vision systems (object detection, classification, automated visual intelligence) and end-to-end AI pipelines — data prep, training, evaluation, deployment — integrated into production-ready applications.
+
+**AI/ML Apprentice** · XFlow Research · *Jun 2025 – Apr 2026*
+Built high-accuracy OCR models (pytesseract, OpenCV, NumPy) for document text extraction. Maintained scalable AI workflows using Linux, Docker, and Git across multiple concurrent AI initiatives.
+
+**Web Automation / Web Scraping** · Freelance · *2023 – Present*
+Extracted and processed data from 500+ websites across finance, retail, and social media using BeautifulSoup, Scrapy, and Selenium, with anti-scraping bypass and error-handling for reliable large-scale extraction.
 
 <br/>
 
 ## Tech Stack
 
-**Data Science & ML**
+**AI / Machine Learning / Computer Vision**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="Data Science & ML stack" />
-<br/><sub>Python · Pandas · NumPy · Scikit-Learn · TensorFlow · Jupyter</sub>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" alt="AI/ML/CV stack" />
+<br/><sub>Python · PyTorch · TensorFlow · OpenCV · YOLO (Object Detection & Segmentation) · Scikit-Learn · OCR (pytesseract) · GPT/LLM Integration</sub>
 
-**Web Scraping & Automation**
+**Data Engineering & Web Automation**
 
-<img src="https://skillicons.dev/icons?i=python,selenium" alt="Web Scraping & Automation stack" />
-<br/><sub>BeautifulSoup · Selenium · Scrapy · API Integration</sub>
+<img src="https://skillicons.dev/icons?i=python,selenium" alt="Data Engineering stack" />
+<br/><sub>BeautifulSoup · Selenium · Scrapy · Playwright · API Integration</sub>
 
 **Databases & Tools**
 
@@ -54,40 +67,24 @@
 
 ## Featured Projects
 
+### Computer Vision & AI
+
 <details open>
-<summary><b>GitHub Data Scraper</b> — <a href="https://github.com/M-HamzaKhan/github-data-scraper">Repo ↗</a></summary>
+<summary><b>Golf ClubHead Detection (Computer Vision)</b> — <a href="https://github.com/M-HamzaKhan/golf-clubhead-detector">Repo ↗</a></summary>
 <br/>
 
-Advanced scraper for extracting GitHub repository and user data.
+End-to-end computer vision pipeline merging 7,000+ public and self-labeled images into a unified training set for golf club head instance segmentation. Trained a YOLO11-seg model with custom motion-blur/defocus augmentation for robust detection across fast swings and slow-motion footage. Refactored from a research notebook into a modular, config-driven, production-style codebase (ingestion, filtering, augmentation, training, evaluation, inference).
 
-`Python` `BeautifulSoup` `Selenium`
+`Python` `YOLO11-seg` `Computer Vision` `Data Augmentation`
 </details>
 
 <details>
-<summary><b>Property Data Scraper</b> — <a href="https://github.com/M-HamzaKhan/property-data-scraper">Repo ↗</a></summary>
+<summary><b>Legal Job Proposal System</b> — <a href="https://github.com/M-HamzaKhan/legal-job-proposal-bot">Repo ↗</a></summary>
 <br/>
 
-Real estate data extraction tool built for market analysis.
+Python-based scraper extracting job listings from Seek.com.au, with GPT-powered filtering to identify relevant in-house legal roles and exclude law firms, government, and recruiter postings. Automated generation of personalized proposal letters.
 
-`Python` `Selenium` `Pandas`
-</details>
-
-<details>
-<summary><b>Drum Scraper</b> — <a href="https://github.com/M-HamzaKhan/Drum-Scraper-">Repo ↗</a></summary>
-<br/>
-
-Music instrument data scraper for pricing and inventory tracking.
-
-`Python` `Selenium`
-</details>
-
-<details>
-<summary><b>HLTV Scraper</b> — <a href="https://github.com/M-HamzaKhan/HLTV_Scraper">Repo ↗</a></summary>
-<br/>
-
-Scraper for collecting detailed CS:GO player data from HLTV.org.
-
-`Python` `Selenium`
+`Python` `OpenAI GPT` `NLP` `Automation`
 </details>
 
 <details>
@@ -100,21 +97,50 @@ ML model for predicting heart disease using patient data.
 </details>
 
 <details>
-<summary><b>MLB Data Project</b> — <a href="https://github.com/M-HamzaKhan/MLB">Repo ↗</a></summary>
+<summary><b>HLTV Predictive Analysis Model</b> — <a href="https://github.com/M-HamzaKhan/HLTV_Scraper">Repo ↗</a></summary>
 <br/>
 
-Major League Baseball data scraping and analytics.
+Automated HLTV scraper collecting CS2 player stats and PrizePicks prop data, with Monte Carlo simulations using role-based and contextual modeling for predictive analysis. Multi-threaded pipeline with real-time monitoring and Excel reporting.
+
+`Python` `Monte Carlo Simulation` `Selenium` `Predictive Modeling`
+</details>
+
+### Data Engineering & Web Scraping
+
+<details>
+<summary><b>Real Estate Properties Data Scraper</b> — <a href="https://github.com/M-HamzaKhan/property-data-scraper">Repo ↗</a></summary>
+<br/>
+
+Multi-threaded scraper extracting ownership, valuation, sales history, features, and images from Patriot Properties, with structured Excel reporting and data quality checks.
+
+`Python` `Selenium` `Pandas`
+</details>
+
+<details>
+<summary><b>GitHub Data Scraper</b> — <a href="https://github.com/M-HamzaKhan/github-data-scraper">Repo ↗</a></summary>
+<br/>
+
+Advanced scraper for extracting GitHub repository and user data.
+
+`Python` `BeautifulSoup` `Selenium`
+</details>
+
+<details>
+<summary><b>MLB Data Scraper</b> — <a href="https://github.com/M-HamzaKhan/MLB">Repo ↗</a></summary>
+<br/>
+
+Collects and processes MLB game, player, and team data, with visualization and analytics modules for player/team performance insights.
 
 `Python` `Pandas` `BeautifulSoup`
 </details>
 
 <details>
-<summary><b>Legal Job Proposal Bot</b> — <a href="https://github.com/M-HamzaKhan/legal-job-proposal-bot">Repo ↗</a></summary>
+<summary><b>Drum Scraper</b> — <a href="https://github.com/M-HamzaKhan/Drum-Scraper-">Repo ↗</a></summary>
 <br/>
 
-Automated job proposal generation for legal positions.
+Windows-based scraper collecting drum product specs, pricing, and images across major manufacturers for market analysis.
 
-`Python` `NLP` `APIs`
+`Python` `Selenium`
 </details>
 
 <details>
@@ -146,12 +172,13 @@ Data pipeline infrastructure and visualization platform.
 
 ```python
 skills = {
-    "Data Science": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "Machine Learning": ["Scikit-Learn", "TensorFlow", "Model Evaluation", "Feature Engineering"],
-    "Web Scraping": ["BeautifulSoup", "Selenium", "Scrapy", "API Integration"],
+    "AI / Machine Learning": ["Python", "PyTorch", "TensorFlow", "Model Evaluation", "Feature Engineering"],
+    "Computer Vision": ["YOLO (Detection & Segmentation)", "OpenCV", "OCR (pytesseract)", "Data Augmentation"],
+    "LLM / NLP": ["OpenAI GPT Integration", "Automated Content Filtering", "Text Generation"],
+    "Data Engineering & Scraping": ["BeautifulSoup", "Selenium", "Scrapy", "Playwright", "API Integration"],
     "Databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
-    "Tools": ["Jupyter", "Git", "Docker", "VS Code"],
-    "Soft Skills": ["Problem Solving", "Data Analysis", "Research", "Team Collaboration"]
+    "Tools": ["Git", "Docker", "Linux", "VS Code"],
+    "Soft Skills": ["Problem Solving", "Technical Documentation", "Cross-team Collaboration"]
 }
 ```
 
