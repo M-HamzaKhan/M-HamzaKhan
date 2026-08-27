@@ -1,120 +1,129 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E90FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Hamza+Khan;Data+Science+Graduate+%F0%9F%93%8A;Web+Scraping+Specialist+%F0%9F%95%B8%EF%B8%8F;Machine+Learning+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-HamzaKhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/M-HamzaKhan?label=Followers&style=social" alt="followers" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=200&section=header&text=Ahmad%20Umer%20Farooq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Distributed%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Engineering;Real-Time+Multiplayer+Systems+%26+WebSockets;Scalable+Microservices+%26+Distributed+Queues;End-to-End+Test+%26+Data+Pipeline+Automation" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
+<br/><br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmad-umer-farooq.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umer-farooq-497522309)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btumer83@gmail.com)
+[![Zirium AI](https://img.shields.io/badge/Zirium_AI-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://ziriumai.com)
 
-- 🎓 **Data Science Graduate** with a passion for turning data into insights
-- 🕷️ **Web Scraping Expert** - Extracting valuable data from the web
-- 🤖 **Machine Learning Enthusiast** - Building intelligent systems
-- 💻 Working on exciting **Data Science & ML projects**
-- 📊 Love working with **Python, ML algorithms, and data visualization**
-- 🌱 Currently exploring **Deep Learning & Advanced NLP**
-- 📫 Reach me: **hamzakhann067@gmail.com**
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Ahmed-Umer-Farooq&label=Profile%20views&color=38BDF8&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Ahmed-Umer-Farooq?label=Followers&style=social" alt="followers" />
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Beautiful_Soup-59666C?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<br/>
 
----
+## About Me
 
-## 📁 Featured Projects
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🕷️ Web Scraping Projects
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **GitHub Data Scraper** | Advanced scraper for extracting GitHub repository and user data | Python, BeautifulSoup, Selenium | [View →](https://github.com/M-HamzaKhan/github-data-scraper) |
-| **Property Data Scraper** | Real estate data extraction tool for market analysis | Python, Selenium, Pandas | [View →](https://github.com/M-HamzaKhan/property-data-scraper) |
-| **Drum Scraper** | Music instrument data scraper for pricing and inventory tracking | Python, Selenium | [View →](https://github.com/M-HamzaKhan/Drum-Scraper-) |
-| **HLTV Scraper** | Scraper for collecting detailed CS:Go players data from HLTV.org | Python, Selenium | [View →](https://github.com/M-HamzaKhan/HLTV_Scraper) |
+- Full-Stack Software Engineer building resilient web platforms and cross-platform mobile ecosystems
+- Distributed Systems Builder — asynchronous backend microservices, worker queues, and job pipelines
+- Real-time systems focus: WebSocket state synchronization for live multiplayer and collaborative apps
+- Automated data pipelines and end-to-end test infrastructure
+- Currently building at **Zirium AI**
+- Reach me: **btumer83@gmail.com**
 
-### 🤖 Machine Learning & Data Science
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Heart Disease Detection** | ML model for predicting heart disease using patient data | Python, Scikit-Learn, Jupyter | [View →](https://github.com/M-HamzaKhan/Heart-Disease-Detection) |
+<br clear="right"/>
 
-### ⚾ Sports Analytics
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **MLB Data Project** | Major League Baseball data scraping and analytics | Python, Pandas, BeautifulSoup | [View →](https://github.com/M-HamzaKhan/MLB) |
+<br/>
 
-### 🔧 Automation & Tools
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Legal Job Proposal Bot** | Automated job proposal generation for legal positions | Python, NLP, APIs | [View →](https://github.com/M-HamzaKhan/legal-job-proposal-bot) |
+## Tech Stack
 
-### 🌐 Big Data & Infrastructure
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Big Data Pipeline Website** | Data pipeline infrastructure and visualization platform | TypeScript, React, Next.js | [View →](https://m-hamzakhan.github.io/Big-Data-Pipeline/) |
+**Frontend & Mobile**
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" alt="Frontend & Mobile stack" />
+<br/><sub>React.js · Next.js · React Native (Expo) · TypeScript · Tailwind CSS · Redux Toolkit</sub>
 
-## 📊 GitHub Statistics
+**Backend & APIs**
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-HamzaKhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,redis" alt="Backend & APIs stack" />
+<br/><sub>Node.js · Express.js · Laravel · RESTful APIs · WebSockets · BullMQ</sub>
 
----
+**Databases & Cache**
 
-## 💼 Skills & Expertise
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" alt="Databases & Cache stack" />
+<br/><sub>PostgreSQL · MongoDB · MySQL · Redis · Prisma ORM · Mongoose</sub>
 
-```python
-skills = {
-    "Data Science": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "Machine Learning": ["Scikit-Learn", "TensorFlow", "Model Evaluation", "Feature Engineering"],
-    "Web Scraping": ["BeautifulSoup", "Selenium", "Scrapy", "API Integration"],
-    "Databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
-    "Tools": ["Jupyter", "Git", "Docker", "VS Code"],
-    "Soft Skills": ["Problem Solving", "Data Analysis", "Research", "Team Collaboration"]
-}
-```
+**Automation & DevOps**
 
----
+<img src="https://skillicons.dev/icons?i=python,selenium,docker,git,postman,linux" alt="Automation & DevOps stack" />
+<br/><sub>Python · Selenium WebDriver · Docker · Git · Postman · Linux/Bash</sub>
 
-## 🌐 Connect With Me
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-hamza-khan-01973a261" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://m-hamzakhan.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:hamzakhann067@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## Featured Projects
 
----
+<details open>
+<summary><b>BossPays Social Suite</b></summary>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
-</p>
+Cross-platform architecture spanning 2 mobile apps and 1 web client, with 10 real-time multiplayer mini-games featuring live matchmaking and state sync, plus live friends feeds, activity streams, and digital stamp loyalty cards.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+and+build+something+amazing!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+`React Native` `Expo` `WebSockets` `Node.js`
+</details>
+
+<details>
+<summary><b>Distributed Badge Service</b></summary>
+<br/>
+
+Isolated backend microservice for automated asset generation. Integrated BullMQ and Redis for high-throughput concurrency, job retries, and rate limiting.
+
+`Node.js` `BullMQ` `Redis` `TypeScript`
+</details>
+
+<details>
+<summary><b>City Center Barbershop</b> — <a href="https://citycenterbarbershop.nl">Live ↗</a></summary>
+<br/>
+
+Fully responsive commercial website built from scratch for a Dutch barbershop, with a dynamic appointment booking system, tiered service listings, and local SEO.
+
+`WordPress` `PHP` `MySQL` `JavaScript`
+</details>
+
+<details>
+<summary><b>Zirium AI Platform</b> — <a href="https://ziriumai.com">Live ↗</a></summary>
+<br/>
+
+Full-stack corporate presence built from scratch, with a high-performance modern UI, responsive workflows, and interactive product showcases.
+
+`React` `Tailwind CSS` `Vite` `Node.js`
+</details>
+
+<details>
+<summary><b>Automated Extraction Suite</b></summary>
+<br/>
+
+Headless Selenium data pipelines harvesting structured datasets from online sources — handling dynamic DOM elements, infinite scroll, and automated data normalization.
+
+`Python` `Selenium` `Pandas`
+</details>
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Ahmed-Umer-Farooq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ahmed-Umer-Farooq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Ahmed-Umer-Farooq&theme=tokyonight&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Focused on scalable architecture, clean codebases, and performance-driven development.</sub>
+</div>
