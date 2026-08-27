@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E90FF&height=200&section=header&text=Muhammad%20Hamza%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%26%20Deep%20Learning&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:1E90FF&amp;height=200&amp;section=header&amp;text=Muhammad%20Hamza%20Khan&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%26%20Deep%20Learning&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Computer+Vision+%26+Deep+Learning;Building+End-to-End+AI+Pipelines;Data+Science+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=1E90FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI%2FML+Engineer;Computer+Vision+%26+Deep+Learning;Building+End-to-End+AI+Pipelines;Data+Science+Graduate" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -14,8 +14,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=M-HamzaKhan&label=Profile%20views&color=1E90FF&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/M-HamzaKhan?label=Followers&style=social" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=M-HamzaKhan&amp;label=Profile%20views&amp;color=1E90FF&amp;style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/M-HamzaKhan?label=Followers&amp;style=social" alt="followers" />
 
 </div>
 
@@ -158,11 +158,11 @@ Data pipeline infrastructure and visualization platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=M-HamzaKhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=M-HamzaKhan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="100%"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-HamzaKhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-HamzaKhan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" width="100%"/>
 
-<img src="https://streak-stats.demolab.com/?user=M-HamzaKhan&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=M-HamzaKhan&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
 
 </div>
 
@@ -188,22 +188,22 @@ skills = {
 
 <p align="center">
   <a href="https://m-hamzakhan.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/m-hamza-khan-01973a261" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hamzakhann067@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E90FF&height=100&section=footer" alt="footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:1E90FF&amp;height=100&amp;section=footer" alt="footer" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+something+great!;Happy+Coding!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=1E90FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thanks+for+visiting!;Let's+connect+and+build+something+great!;Happy+Coding!" alt="Typing SVG" />
 </p>
