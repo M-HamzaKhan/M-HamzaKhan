@@ -1,148 +1,174 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E90FF&height=190&section=header&text=Muhammad%20Hamza%20Khan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:1E3A8A,100:22D3EE&height=200&section=header&text=MUHAMMAD%20HAMZA%20KHAN&fontSize=34&fontColor=E0F2FE&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%94%20COMPUTER%20VISION%20%26%20DEEP%20LEARNING&descAlignY=54&descSize=14&descColor=67E8F9" width="100%"/>
 
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1200&color=1E90FF&center=true&vCenter=true&width=680&lines=Building+end-to-end+AI+systems;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;Data+Pipelines+to+Production+Deployment" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=22D3EE&background=00000000&center=true&vCenter=true&width=750&lines=training+model...+epoch+47%2F50+%E2%80%94+val_acc%3A+0.968;deploying+inference+pipeline+to+production;system.status%3A+ONLINE;building+intelligent+systems+that+ship" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://m-hamzakhan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-khan-01973a261)
-[![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzakhann067@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-030712?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://m-hamzakhan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/m-hamza-khan-01973a261)
+[![Email](https://img.shields.io/badge/EMAIL-030712?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:hamzakhann067@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:1E3A8A,100:22D3EE&height=3&width=1000" width="100%"/>
 
 </div>
 
 <br/>
 
-## About
+## `> whoami`
 
-AI/ML Engineer focused on building end-to-end intelligent systems — from data acquisition and preprocessing through model development, evaluation, and production deployment. Current work centers on computer vision (object detection, instance segmentation), OCR, and applied deep learning, with a strong data-engineering foundation from large-scale scraping and pipeline work.
-
-- Currently: **AI/ML Engineer @ Zirium AI** — computer vision systems, end-to-end AI pipelines, production integration
-- Previously: **AI/ML Apprentice @ XFlow Research** — OCR systems, scalable AI workflows (Linux, Docker, Git)
-- B.S. Data Science, Institute of Management Sciences, Peshawar — CGPA 3.50/4.0
-- Based in Peshawar, Pakistan
-
-<br/>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**AI / Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv" /><br/>
-<sub>Deep Learning · Computer Vision · Object Detection · OCR · Model Evaluation</sub>
-
-</td>
-<td valign="top" width="33%">
-
-**Data Engineering**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,selenium" /><br/>
-<sub>Scrapy · BeautifulSoup · Playwright · Pandas · NumPy</sub>
-
-</td>
-<td valign="top" width="33%">
-
-**Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,mysql,postgres" /><br/>
-<sub>Docker · Linux · Git · SQL & NoSQL Databases</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Golf ClubHead Detection
-**Computer Vision · Instance Segmentation**
-
-End-to-end CV pipeline merging 7,000+ public and self-labeled images into a unified training set. Trained a YOLO11-seg model with custom motion-blur/defocus augmentation for reliable club-head detection across fast swings and slow-motion footage. Refactored into a modular, config-driven, version-controlled codebase.
-
-`Python` `YOLO11` `OpenCV` `Computer Vision`
-
-[Repository ↗](https://github.com/M-HamzaKhan/golf-clubhead-detector)
-
-</td>
-<td width="50%" valign="top">
-
-### HLTV Predictive Analysis
-**Applied ML · Simulation**
-
-Automated scraper collecting CS2 player stats and prop data, feeding a Monte Carlo simulation engine with role-based and contextual modeling. Multi-threaded pipeline with real-time monitoring and automated Excel reporting.
-
-`Python` `Monte Carlo Simulation` `Data Pipelines`
-
-[Repository ↗](https://github.com/M-HamzaKhan/HLTV_Scraper)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Legal Job Proposal System
-**NLP · LLM Integration**
-
-Scraper extracting job listings, paired with GPT-based filtering to identify relevant in-house legal roles while excluding law firms, government, and recruiter postings. Automated, personalized proposal generation aligned to a client service line.
-
-`Python` `OpenAI API` `NLP`
-
-[Repository ↗](https://github.com/M-HamzaKhan/legal-job-proposal-bot)
-
-</td>
-<td width="50%" valign="top">
-
-### Real Estate Data Pipeline
-**Data Engineering**
-
-Multi-threaded scraper extracting ownership, valuation, sales history, and imagery from public property records. Structured Excel reporting with automated data-quality checks and human-like scraping patterns for reliability at scale.
-
-`Python` `Selenium` `Pandas`
-
-[Repository ↗](https://github.com/M-HamzaKhan/property-data-scraper)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Experience
-
-```
-2026 — Present    AI/ML Engineer, Zirium AI (Peshawar)
-                   Computer vision systems · end-to-end AI pipelines · production integration
-
-2025 — 2026        AI/ML Apprentice, XFlow Research (Islamabad)
-                   OCR systems (pytesseract, OpenCV) · scalable AI workflows (Docker, Linux, Git)
-
-2023 — Present     Freelance Web Automation & Data Extraction
-                   500+ sites across finance, retail, and social media · anti-bot resilient pipelines
+```yaml
+role:        AI/ML Engineer
+focus:       Computer Vision · Deep Learning · End-to-End AI Pipelines
+current:     Zirium AI — Peshawar, PK
+education:   B.S. Data Science, IM Sciences Peshawar (CGPA 3.50/4.0)
+mission:     Turn raw data into deployed, production-grade intelligent systems
 ```
 
-<br/>
-
-## GitHub Activity
+I build AI systems end-to-end — data acquisition, model training, evaluation, and deployment into production. Core focus is computer vision (object detection, instance segmentation, OCR) and applied deep learning, backed by a strong data-engineering foundation from large-scale automated data pipelines.
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=M-HamzaKhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=M-HamzaKhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="43%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1E3A8A,100:030712&height=3&width=1000" width="100%"/>
 </div>
 
+<br/>
+
+## `> stack --list`
+
+<table align="center">
+<tr>
+<td align="center" valign="top" width="34%">
+
+**NEURAL / VISION**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv&theme=dark" /><br/><br/>
+<img src="https://img.shields.io/badge/YOLO11-030712?style=flat-square&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/OCR-030712?style=flat-square&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/Object_Detection-030712?style=flat-square&logoColor=22D3EE"/>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**DATA ENGINEERING**
+
+<img src="https://skillicons.dev/icons?i=python,selenium&theme=dark" /><br/><br/>
+<img src="https://img.shields.io/badge/Scrapy-030712?style=flat-square&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Playwright-030712?style=flat-square&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Pandas-030712?style=flat-square&logoColor=38BDF8"/>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux,mysql,postgres,vscode&theme=dark" /><br/><br/>
+<img src="https://img.shields.io/badge/Docker-030712?style=flat-square&logoColor=67E8F9"/> <img src="https://img.shields.io/badge/Linux-030712?style=flat-square&logoColor=67E8F9"/> <img src="https://img.shields.io/badge/CI%2FCD-030712?style=flat-square&logoColor=67E8F9"/>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=M-HamzaKhan&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:1E3A8A,100:22D3EE&height=3&width=1000" width="100%"/>
+</div>
+
+<br/>
+
+## `> projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Golf ClubHead Detection
+`Computer Vision` `Instance Segmentation`
+
+End-to-end CV pipeline merging 7,000+ public and self-labeled images into a unified training set. Trained a YOLO11-seg model with custom motion-blur/defocus augmentation for reliable detection across fast swings and slow-motion footage. Refactored from research notebook into a modular, config-driven, version-controlled system.
+
+**Stack:** Python · YOLO11 · OpenCV
+**→** [github.com/M-HamzaKhan/golf-clubhead-detector](https://github.com/M-HamzaKhan/golf-clubhead-detector)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · HLTV Predictive Analysis
+`Applied ML` `Monte Carlo Simulation`
+
+Automated scraper collecting CS2 player stats and prop data, feeding role-based and contextual Monte Carlo simulations for predictive analysis. Multi-threaded pipeline with real-time monitoring and automated reporting.
+
+**Stack:** Python · Simulation Modeling · Multi-threading
+**→** [github.com/M-HamzaKhan/HLTV_Scraper](https://github.com/M-HamzaKhan/HLTV_Scraper)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · Legal Job Proposal System
+`NLP` `LLM Integration`
+
+Job-listing scraper paired with GPT-based filtering to identify relevant in-house legal roles, excluding law firms, government, and recruiter postings. Fully automated, personalized proposal generation aligned to a client service line.
+
+**Stack:** Python · OpenAI API · NLP
+**→** [github.com/M-HamzaKhan/legal-job-proposal-bot](https://github.com/M-HamzaKhan/legal-job-proposal-bot)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · Real Estate Data Pipeline
+`Data Engineering` `ETL`
+
+Multi-threaded scraper extracting ownership, valuation, sales history, and imagery from public property records at scale, with automated data-quality checks and structured reporting.
+
+**Stack:** Python · Selenium · Pandas
+**→** [github.com/M-HamzaKhan/property-data-scraper](https://github.com/M-HamzaKhan/property-data-scraper)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1E3A8A,100:030712&height=3&width=1000" width="100%"/>
+</div>
+
+<br/>
+
+## `> log --experience`
+
+```
+[2026-04 → present]   AI/ML Engineer @ Zirium AI, Peshawar
+                       ├─ computer vision systems: detection, classification, segmentation
+                       ├─ end-to-end AI pipelines: data prep → training → eval → deployment
+                       └─ integrated models into production-ready systems
+
+[2025-06 → 2026-04]    AI/ML Apprentice @ XFlow Research, Islamabad
+                       ├─ built high-accuracy OCR models (pytesseract, OpenCV, NumPy)
+                       ├─ scalable AI workflows across Linux, Docker, Git
+                       └─ cross-team technical documentation & solution alignment
+
+[2023 → present]       Freelance — Web Automation & Data Extraction
+                       ├─ 500+ sites across finance, retail, social media
+                       └─ anti-bot resilient, production-grade scraping pipelines
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:1E3A8A,100:22D3EE&height=3&width=1000" width="100%"/>
+</div>
+
+<br/>
+
+## `> analytics --render`
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=M-HamzaKhan&show_icons=true&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=38BDF8&text_color=E0F2FE&count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=M-HamzaKhan&layout=compact&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=E0F2FE&langs_count=8" width="43%"/>
+
+<img src="https://streak-stats.demolab.com/?user=M-HamzaKhan&hide_border=true&background=030712&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=E0F2FE&dates=64748B" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-HamzaKhan/M-HamzaKhan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-HamzaKhan/M-HamzaKhan/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/M-HamzaKhan/M-HamzaKhan/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
 <br/>
@@ -151,4 +177,4 @@ Multi-threaded scraper extracting ownership, valuation, sales history, and image
 <sub>hamzakhann067@gmail.com · <a href="https://www.linkedin.com/in/m-hamza-khan-01973a261">LinkedIn</a> · <a href="https://m-hamzakhan.github.io/">Portfolio</a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E90FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:1E3A8A,100:22D3EE&height=110&section=footer" width="100%"/>
