@@ -1,168 +1,182 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E90FF&height=200&section=header&text=Muhammad%20Hamza%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Graduate%20%7C%20Web%20Scraping%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-030712?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://m-hamzakhan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/m-hamza-khan-01973a261)
-[![Email](https://img.shields.io/badge/EMAIL-030712?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:hamzakhann067@gmail.com)
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Data+Science+Graduate;Web+Scraping+Specialist;Machine+Learning+Enthusiast;Turning+Raw+Data+Into+Real+Insights" alt="Typing SVG" />
+</a>
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://m-hamzakhan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamza-khan-01973a261)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzakhann067@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=M-HamzaKhan&label=Profile%20views&color=1E90FF&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/M-HamzaKhan?label=Followers&style=social" alt="followers" />
 
 </div>
 
 <br/>
 
-## `> whoami`
+## About Me
 
-```yaml
-role:        AI/ML Engineer
-focus:       Computer Vision · Deep Learning · End-to-End AI Pipelines
-current:     Zirium AI — Peshawar, PK
-education:   B.S. Data Science, IM Sciences Peshawar (CGPA 3.50/4.0)
-mission:     Turn raw data into deployed, production-grade intelligent systems
-```
-
-I build AI systems end-to-end — data acquisition, model training, evaluation, and deployment into production. Core focus is computer vision (object detection, instance segmentation, OCR) and applied deep learning, backed by a strong data-engineering foundation from large-scale automated data pipelines.
-
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+- Data Science Graduate with a passion for turning data into insights
+- Web Scraping Specialist — extracting valuable, structured data from the web
+- Machine Learning Enthusiast building intelligent systems
+- Working on Data Science & ML projects, from raw extraction through to modeling
+- Comfortable across Python, ML algorithms, and data visualization
+- Currently exploring Deep Learning & Advanced NLP
+- Reach me: **hamzakhann067@gmail.com**
 
 <br/>
 
-## `> stack --list`
+## Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" valign="top" width="34%">
+**Data Science & ML**
 
-**NEURAL / VISION**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="Data Science & ML stack" />
+<br/><sub>Python · Pandas · NumPy · Scikit-Learn · TensorFlow · Jupyter</sub>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/YOLO11-030712?style=flat-square&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/OCR-030712?style=flat-square&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/Object_Detection-030712?style=flat-square&logoColor=22D3EE"/>
+**Web Scraping & Automation**
 
-</td>
-<td align="center" valign="top" width="33%">
+<img src="https://skillicons.dev/icons?i=python,selenium" alt="Web Scraping & Automation stack" />
+<br/><sub>BeautifulSoup · Selenium · Scrapy · API Integration</sub>
 
-**DATA ENGINEERING**
+**Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=python,selenium&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/Scrapy-030712?style=flat-square&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Playwright-030712?style=flat-square&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Pandas-030712?style=flat-square&logoColor=38BDF8"/>
-
-</td>
-<td align="center" valign="top" width="33%">
-
-**INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=git,docker,linux,mysql,postgres,vscode&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/Docker-030712?style=flat-square&logoColor=67E8F9"/> <img src="https://img.shields.io/badge/Linux-030712?style=flat-square&logoColor=67E8F9"/> <img src="https://img.shields.io/badge/CI%2FCD-030712?style=flat-square&logoColor=67E8F9"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,docker,vscode" alt="Databases & Tools stack" />
+<br/><sub>MySQL · PostgreSQL · SQLite · MongoDB · Git · Docker · VS Code</sub>
 
 <br/>
 
-## `> projects --featured`
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>GitHub Data Scraper</b> — <a href="https://github.com/M-HamzaKhan/github-data-scraper">Repo ↗</a></summary>
+<br/>
 
-### 01 · Golf ClubHead Detection
-`Computer Vision` `Instance Segmentation`
+Advanced scraper for extracting GitHub repository and user data.
 
-End-to-end CV pipeline merging 7,000+ public and self-labeled images into a unified training set. Trained a YOLO11-seg model with custom motion-blur/defocus augmentation for reliable detection across fast swings and slow-motion footage. Refactored from research notebook into a modular, config-driven, version-controlled system.
+`Python` `BeautifulSoup` `Selenium`
+</details>
 
-**Stack:** Python · YOLO11 · OpenCV
-**→** [github.com/M-HamzaKhan/golf-clubhead-detector](https://github.com/M-HamzaKhan/golf-clubhead-detector)
+<details>
+<summary><b>Property Data Scraper</b> — <a href="https://github.com/M-HamzaKhan/property-data-scraper">Repo ↗</a></summary>
+<br/>
 
-</td>
-<td width="50%" valign="top">
+Real estate data extraction tool built for market analysis.
 
-### 02 · HLTV Predictive Analysis
-`Applied ML` `Monte Carlo Simulation`
+`Python` `Selenium` `Pandas`
+</details>
 
-Automated scraper collecting CS2 player stats and prop data, feeding role-based and contextual Monte Carlo simulations for predictive analysis. Multi-threaded pipeline with real-time monitoring and automated reporting.
+<details>
+<summary><b>Drum Scraper</b> — <a href="https://github.com/M-HamzaKhan/Drum-Scraper-">Repo ↗</a></summary>
+<br/>
 
-**Stack:** Python · Simulation Modeling · Multi-threading
-**→** [github.com/M-HamzaKhan/HLTV_Scraper](https://github.com/M-HamzaKhan/HLTV_Scraper)
+Music instrument data scraper for pricing and inventory tracking.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Python` `Selenium`
+</details>
 
-### 03 · Legal Job Proposal System
-`NLP` `LLM Integration`
+<details>
+<summary><b>HLTV Scraper</b> — <a href="https://github.com/M-HamzaKhan/HLTV_Scraper">Repo ↗</a></summary>
+<br/>
 
-Job-listing scraper paired with GPT-based filtering to identify relevant in-house legal roles, excluding law firms, government, and recruiter postings. Fully automated, personalized proposal generation aligned to a client service line.
+Scraper for collecting detailed CS:GO player data from HLTV.org.
 
-**Stack:** Python · OpenAI API · NLP
-**→** [github.com/M-HamzaKhan/legal-job-proposal-bot](https://github.com/M-HamzaKhan/legal-job-proposal-bot)
+`Python` `Selenium`
+</details>
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><b>Heart Disease Detection</b> — <a href="https://github.com/M-HamzaKhan/Heart-Disease-Detection">Repo ↗</a></summary>
+<br/>
 
-### 04 · Real Estate Data Pipeline
-`Data Engineering` `ETL`
+ML model for predicting heart disease using patient data.
 
-Multi-threaded scraper extracting ownership, valuation, sales history, and imagery from public property records at scale, with automated data-quality checks and structured reporting.
+`Python` `Scikit-Learn` `Jupyter`
+</details>
 
-**Stack:** Python · Selenium · Pandas
-**→** [github.com/M-HamzaKhan/property-data-scraper](https://github.com/M-HamzaKhan/property-data-scraper)
+<details>
+<summary><b>MLB Data Project</b> — <a href="https://github.com/M-HamzaKhan/MLB">Repo ↗</a></summary>
+<br/>
 
-</td>
-</tr>
-</table>
+Major League Baseball data scraping and analytics.
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+`Python` `Pandas` `BeautifulSoup`
+</details>
+
+<details>
+<summary><b>Legal Job Proposal Bot</b> — <a href="https://github.com/M-HamzaKhan/legal-job-proposal-bot">Repo ↗</a></summary>
+<br/>
+
+Automated job proposal generation for legal positions.
+
+`Python` `NLP` `APIs`
+</details>
+
+<details>
+<summary><b>Big Data Pipeline Website</b> — <a href="https://m-hamzakhan.github.io/Big-Data-Pipeline/">Live ↗</a></summary>
+<br/>
+
+Data pipeline infrastructure and visualization platform.
+
+`TypeScript` `React` `Next.js`
+</details>
 
 <br/>
 
-## `> log --experience`
-
-```
-[2026-04 → present]   AI/ML Engineer @ Zirium AI, Peshawar
-                       ├─ computer vision systems: detection, classification, segmentation
-                       ├─ end-to-end AI pipelines: data prep → training → eval → deployment
-                       └─ integrated models into production-ready systems
-
-[2025-06 → 2026-04]    AI/ML Apprentice @ XFlow Research, Islamabad
-                       ├─ built high-accuracy OCR models (pytesseract, OpenCV, NumPy)
-                       ├─ scalable AI workflows across Linux, Docker, Git
-                       └─ cross-team technical documentation & solution alignment
-
-[2023 → present]       Freelance — Web Automation & Data Extraction
-                       ├─ 500+ sites across finance, retail, social media
-                       └─ anti-bot resilient, production-grade scraping pipelines
-```
-
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
-
-<br/>
-
-## `> analytics --render`
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=M-HamzaKhan&show_icons=true&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=38BDF8&text_color=E0F2FE&count_private=true" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=M-HamzaKhan&layout=compact&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=E0F2FE&langs_count=8" width="43%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=M-HamzaKhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 
-<img src="https://streak-stats.demolab.com/?user=M-HamzaKhan&hide_border=true&background=030712&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=E0F2FE&dates=64748B" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-HamzaKhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-HamzaKhan/M-HamzaKhan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-HamzaKhan/M-HamzaKhan/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/M-HamzaKhan/M-HamzaKhan/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://streak-stats.demolab.com/?user=M-HamzaKhan&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-<sub>hamzakhann067@gmail.com · <a href="https://www.linkedin.com/in/m-hamza-khan-01973a261">LinkedIn</a> · <a href="https://m-hamzakhan.github.io/">Portfolio</a></sub>
-</div>
+## Skills & Expertise
 
-<img src="./assets/footer.svg" width="100%"/>
+```python
+skills = {
+    "Data Science": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+    "Machine Learning": ["Scikit-Learn", "TensorFlow", "Model Evaluation", "Feature Engineering"],
+    "Web Scraping": ["BeautifulSoup", "Selenium", "Scrapy", "API Integration"],
+    "Databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
+    "Tools": ["Jupyter", "Git", "Docker", "VS Code"],
+    "Soft Skills": ["Problem Solving", "Data Analysis", "Research", "Team Collaboration"]
+}
+```
+
+<br/>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://m-hamzakhan.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-hamza-khan-01973a261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hamzakhann067@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E90FF&height=100&section=footer" alt="footer" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+something+great!;Happy+Coding!" alt="Typing SVG" />
+</p>
