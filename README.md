@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:1E3A8A,100:22D3EE&height=200&section=header&text=MUHAMMAD%20HAMZA%20KHAN&fontSize=34&fontColor=E0F2FE&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%94%20COMPUTER%20VISION%20%26%20DEEP%20LEARNING&descAlignY=54&descSize=14&descColor=67E8F9" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=22D3EE&background=00000000&center=true&vCenter=true&width=750&lines=training+model...+epoch+47%2F50+%E2%80%94+val_acc%3A+0.968;deploying+inference+pipeline+to+production;system.status%3A+ONLINE;building+intelligent+systems+that+ship" alt="Typing SVG" />
-
-<br/>
+<img src="./assets/header.svg" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-030712?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://m-hamzakhan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/m-hamza-khan-01973a261)
 [![Email](https://img.shields.io/badge/EMAIL-030712?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:hamzakhann067@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:1E3A8A,100:22D3EE&height=3&width=1000" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 </div>
 
@@ -28,9 +24,7 @@ mission:     Turn raw data into deployed, production-grade intelligent systems
 
 I build AI systems end-to-end — data acquisition, model training, evaluation, and deployment into production. Core focus is computer vision (object detection, instance segmentation, OCR) and applied deep learning, backed by a strong data-engineering foundation from large-scale automated data pipelines.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1E3A8A,100:030712&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 <br/>
 
@@ -65,9 +59,7 @@ I build AI systems end-to-end — data acquisition, model training, evaluation, 
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:1E3A8A,100:22D3EE&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 <br/>
 
@@ -124,9 +116,7 @@ Multi-threaded scraper extracting ownership, valuation, sales history, and image
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1E3A8A,100:030712&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 <br/>
 
@@ -148,9 +138,7 @@ Multi-threaded scraper extracting ownership, valuation, sales history, and image
                        └─ anti-bot resilient, production-grade scraping pipelines
 ```
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:1E3A8A,100:22D3EE&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 <br/>
 
@@ -177,4 +165,4 @@ Multi-threaded scraper extracting ownership, valuation, sales history, and image
 <sub>hamzakhann067@gmail.com · <a href="https://www.linkedin.com/in/m-hamza-khan-01973a261">LinkedIn</a> · <a href="https://m-hamzakhan.github.io/">Portfolio</a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:1E3A8A,100:22D3EE&height=110&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
